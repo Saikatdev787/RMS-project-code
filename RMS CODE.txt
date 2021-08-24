@@ -1,4 +1,4 @@
-Restaurant.java
+1.Restaurant.java
 
 
 
@@ -228,7 +228,7 @@ public class Login extends javax.swing.JFrame {
 
 
 
-Main
+2.Main
 
 
 
@@ -703,7 +703,7 @@ Connection cn;
 
 
 
-Food
+3.Food
 
 
 
@@ -1086,7 +1086,7 @@ Connection cn;
 
 
 
-Option
+4.Option
 
 
 
@@ -1246,7 +1246,7 @@ public class Option extends javax.swing.JFrame {
 
 
 
-Payment
+5.Payment
 
 
 
